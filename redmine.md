@@ -1,1 +1,3 @@
-Para iniciar a aplicação use o comando ´´npm serve´´
+#Negociações
+
+Para iniciar a aplicação use o comando ´´npm start´´

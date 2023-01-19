@@ -1,5 +1,6 @@
 /node_modules
 /servidor-api/node_modules
 /app/dist/js/*
+.vscode
 
 package-lock.json
